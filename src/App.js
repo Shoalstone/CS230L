@@ -22,8 +22,6 @@ function App() {
       <h2>Section - 01</h2>
       <p>WVU ID: 800336452</p>
       <p>Hi I am James</p>
-
-      </h2>
     </div>
   );
 }
